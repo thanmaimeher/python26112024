@@ -1,0 +1,6 @@
+# username=input("what is user name?")
+# length=len(username)
+# print(f"Username is:{username} and the length of username is {length}")
+city = input("Welcome to the Band Name Generator.\nWhats the name of the city you grew up in?")
+pet = input("Whats your pets name?")
+print("Your band name could be: "+city+" "+pet)
